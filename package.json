@@ -4,7 +4,7 @@
   "description": "Mini Business Planner for Creators - Track expenses, content ideas, sponsorships, analytics, and generate AI content",
   "main": "index.js",
   "scripts": {
-    "android": "react-native run-android",
+    "android": "react-native run-android --variant=playDebug",
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
